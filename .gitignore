@@ -240,7 +240,8 @@ _Pvt_Extensions
 *.log
 .DS_Store
 Thumbs.db
-# Permitir la carpeta DATA y su contenido de ejemplo
-!DATA/
-!DATA/**
+# Permitir DATA con archivos json y zip
+!CleanArchitectureCOPYTRADING/DATA/
+!CleanArchitectureCOPYTRADING/DATA/**/*.json
+!CleanArchitectureCOPYTRADING/DATA/**/*.zip
 
