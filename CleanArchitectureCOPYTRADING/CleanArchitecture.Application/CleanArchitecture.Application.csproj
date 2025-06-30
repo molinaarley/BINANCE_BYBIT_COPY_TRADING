@@ -1,0 +1,104 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+ 
+  
+  
+<PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+</PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Features\BinanceTraderIA\Commands\CreateModelTrader\**" />
+    <Compile Remove="Features\BinanceTraderIA\Commands\CreatePosition\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\BotIsIngProcess\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\CleanPosition\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\GetAddIndBinanceTraderPerformanceRetListAudit\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\GetTraderUrlBybit\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\GetTraderUrlForUpdatePositionBinanceInfo\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\GetTraderUrl\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\InitBotClient\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\LoadBinanceTraderFromJson\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\LoadPosition\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\LoadTraderPerformanceZip\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\LoadTraderPerformance\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\RegulationPosition\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\ValidationCleanPosition\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\ValidationUnrealisedPnl\**" />
+    <Compile Remove="Features\BinanceTraderIA\Queries\ZipDataBinance\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Commands\CreateModelTrader\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Commands\CreatePosition\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\BotIsIngProcess\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\CleanPosition\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\GetAddIndBinanceTraderPerformanceRetListAudit\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\GetTraderUrlBybit\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\GetTraderUrlForUpdatePositionBinanceInfo\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\GetTraderUrl\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\InitBotClient\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\LoadBinanceTraderFromJson\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\LoadPosition\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\LoadTraderPerformanceZip\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\LoadTraderPerformance\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\RegulationPosition\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\ValidationCleanPosition\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\ValidationUnrealisedPnl\**" />
+    <EmbeddedResource Remove="Features\BinanceTraderIA\Queries\ZipDataBinance\**" />
+    <None Remove="Features\BinanceTraderIA\Commands\CreateModelTrader\**" />
+    <None Remove="Features\BinanceTraderIA\Commands\CreatePosition\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\BotIsIngProcess\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\CleanPosition\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\GetAddIndBinanceTraderPerformanceRetListAudit\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\GetTraderUrlBybit\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\GetTraderUrlForUpdatePositionBinanceInfo\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\GetTraderUrl\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\InitBotClient\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\LoadBinanceTraderFromJson\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\LoadPosition\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\LoadTraderPerformanceZip\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\LoadTraderPerformance\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\RegulationPosition\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\ValidationCleanPosition\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\ValidationUnrealisedPnl\**" />
+    <None Remove="Features\BinanceTraderIA\Queries\ZipDataBinance\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArchitecture.Domain\CleanArchitecture.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\BinanceTraderIA\Commands\" />
+    <Folder Include="Features\Directors\Commands\DeleteDirector\" />
+    <Folder Include="Features\Directors\Commands\UpdateDirector\" />
+    <Folder Include="Features\Directors\Queries\" />
+    <Folder Include="Features\Streamers\Queries\" />
+    <Folder Include="Features\Videos\Commands\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Features\Binance\Queries\LoadTraderPerformance\LoadTraderInfoHandler.cs~RF146b0c06.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="DotNetZip" Version="1.16.0" />
+    <PackageReference Include="FluentValidation" Version="10.3.6" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="10.3.6" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.ML" Version="3.0.1" />
+    <PackageReference Include="Microsoft.ML" Version="3.0.1" />
+    <PackageReference Include="Microsoft.ML.LightGbm" Version="3.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="OpenAI" Version="2.1.0" />
+    <PackageReference Include="Telegram.Bot" Version="19.0.0" />
+  </ItemGroup>
+
+</Project>

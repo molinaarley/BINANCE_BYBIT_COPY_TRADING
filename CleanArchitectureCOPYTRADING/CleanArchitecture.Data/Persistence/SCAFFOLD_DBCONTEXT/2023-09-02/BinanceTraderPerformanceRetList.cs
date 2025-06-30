@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace CleanArchitecture.Infrastructure.Persistence.SCAFFOLD_DBCONTEXT.2023-09-02
+{
+    public partial class BinanceTraderPerformanceRetList
+    {
+        public int Id { get; set; }
+        public string EncryptedUid { get; set; } = null!;
+        public DateTime? CreatedOn { get; set; }
+        public string? PeriodType { get; set; }
+        public string? StatisticsType { get; set; }
+        public double? Value { get; set; }
+        public int? Rank { get; set; }
+
+        public virtual BinanceTrader EncryptedU { get; set; } = null!;
+    }
+}

@@ -1,0 +1,1580 @@
+deted from bybit symbol (Handle) :AIXBTUSDT*******position deleted*********2025/01/17 13:14:37:006
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/01/17 14:46:30:417
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/01/18 02:09:39:540
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :HIFIUSDT*******position deleted*********2025/01/18 05:21:30:016
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/01/18 07:11:53:968
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/01/18 12:32:41:843
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :VETUSDT*******position deleted*********2025/01/18 12:41:02:906
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ALGOUSDT*******position deleted*********2025/01/18 12:43:08:745
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/01/18 13:07:44:739
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :LDOUSDT*******position deleted*********2025/01/18 13:09:37:881
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :PNUTUSDT*******position deleted*********2025/01/18 17:36:51:811
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/01/18 18:29:07:176
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AIXBTUSDT*******position deleted*********2025/01/18 20:33:03:144
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/01/18 20:39:13:524
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ALGOUSDT*******position deleted*********2025/01/18 20:55:54:747
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :VETUSDT*******position deleted*********2025/01/18 22:18:44:826
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AKTUSDT*******position deleted*********2025/01/18 23:30:39:768
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :IOTAUSDT*******position deleted*********2025/01/18 23:44:54:284
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000BONKUSDT*******position deleted*********2025/01/19 00:23:18:148
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000BONKUSDT*******position deleted*********2025/01/19 03:34:44:861
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ONDOUSDT*******position deleted*********2025/01/19 06:52:04:945
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/01/19 07:16:40:410
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/01/20 15:39:03:066
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :VIRTUALUSDT*******position deleted*********2025/01/21 23:25:53:232
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/01/22 06:54:46:322
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :POPCATUSDT*******position deleted*********2025/01/22 06:54:47:342
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :DOGEUSDT*******position deleted*********2025/01/22 12:48:21:308
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :POPCATUSDT*******position deleted*********2025/01/23 01:33:03:030
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PENGUUSDT*******position deleted*********2025/01/23 01:34:44:312
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :POPCATUSDT*******position deleted*********2025/01/23 06:35:59:015
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle MONITORING) :OMUSDT*******position deleted*********2025/01/25 22:09:52:119
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/01/26 13:05:15:117
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :JUPUSDT*******position deleted*********2025/01/26 13:13:10:416
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle MONITORING) :RUNEUSDT*******position deleted*********2025/01/26 21:45:12:048
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle) :JUPUSDT*******position deleted*********2025/01/27 12:03:26:985
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/01/27 13:59:16:059
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :CFXUSDT*******position deleted*********2025/01/27 21:07:14:549
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/01/28 17:33:41:623
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :JUPUSDT*******position deleted*********2025/01/29 01:07:12:925
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/01/29 01:41:29:268
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BIOUSDT*******position deleted*********2025/01/29 02:42:43:527
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/01/29 03:08:02:181
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AEROUSDT*******position deleted*********2025/01/29 04:58:06:120
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AIXBTUSDT*******position deleted*********2025/01/30 17:28:04:651
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AIXBTUSDT*******position deleted*********2025/01/31 03:04:59:429
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/01/31 12:25:21:667
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle MONITORING) :LINKUSDT*******position deleted*********2025/01/31 16:33:30:468
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :LDOUSDT*******position deleted*********2025/01/31 16:33:31:434
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :OMUSDT*******position deleted*********2025/01/31 16:33:32:399
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle) :QTUMUSDT*******position deleted*********2025/02/01 10:59:53:607
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :LINKUSDT*******position deleted*********2025/02/01 14:47:31:305
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :QTUMUSDT*******position deleted*********2025/02/01 16:27:49:759
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :QTUMUSDT*******position deleted*********2025/02/01 18:24:18:433
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle MONITORING) :POPCATUSDT*******position deleted*********2025/02/01 19:51:28:897
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle MONITORING) :JASMYUSDT*******position deleted*********2025/02/02 21:05:02:734
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :LDOUSDT*******position deleted*********2025/02/02 21:05:04:586
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :CHILLGUYUSDT*******position deleted*********2025/02/02 21:05:05:601
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle MONITORING) :RUNEUSDT*******position deleted*********2025/02/02 21:05:06:698
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :LDOUSDT*******position deleted*********2025/02/02 21:05:32:523
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :RUNEUSDT*******position deleted*********2025/02/02 21:05:34:829
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/02/02 21:05:40:584
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :WLDUSDT*******position deleted*********2025/02/02 21:05:41:891
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/03 10:06:42:079
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/03 11:33:41:681
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :FARTCOINUSDT*******position deleted*********2025/02/03 13:17:04:635
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/03 13:17:11:341
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/02/04 10:31:31:508
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :VTHOUSDT*******position deleted*********2025/02/04 10:33:25:752
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle MONITORING) :ALGOUSDT*******position deleted*********2025/02/04 11:22:44:024
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :LDOUSDT*******position deleted*********2025/02/04 11:22:54:985
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :RUNEUSDT*******position deleted*********2025/02/04 11:22:56:470
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :JASMYUSDT*******position deleted*********2025/02/04 11:23:00:120
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ZKUSDT*******position deleted*********2025/02/04 11:23:04:921
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :XRPUSDT*******position deleted*********2025/02/04 11:23:06:198
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ATOMUSDT*******position deleted*********2025/02/04 11:23:07:804
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :1000BONKUSDT*******position deleted*********2025/02/04 11:23:09:736
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :KASUSDT*******position deleted*********2025/02/04 11:23:11:349
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WUSDT*******position deleted*********2025/02/04 11:23:13:040
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :RSRUSDT*******position deleted*********2025/02/04 11:23:14:336
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :GALAUSDT*******position deleted*********2025/02/04 11:23:15:776
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :IOTAUSDT*******position deleted*********2025/02/04 11:23:17:545
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :JUPUSDT*******position deleted*********2025/02/04 11:23:18:812
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ZKUSDT*******position deleted*********2025/02/04 11:23:20:091
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :RUNEUSDT*******position deleted*********2025/02/04 11:23:21:699
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :XRPUSDT*******position deleted*********2025/02/04 11:23:22:984
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :ATOMUSDT*******position deleted*********2025/02/04 11:23:23:923
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/02/04 11:23:25:227
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :1000BONKUSDT*******position deleted*********2025/02/04 11:23:26:545
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :KASUSDT*******position deleted*********2025/02/04 11:23:27:485
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :WUSDT*******position deleted*********2025/02/04 11:23:28:754
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :RSRUSDT*******position deleted*********2025/02/04 11:23:29:717
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :GALAUSDT*******position deleted*********2025/02/04 11:23:30:667
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :IOTAUSDT*******position deleted*********2025/02/04 11:23:32:026
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :JUPUSDT*******position deleted*********2025/02/04 11:23:32:972
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :JASMYUSDT*******position deleted*********2025/02/04 11:23:33:939
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :PENGUUSDT*******position deleted*********2025/02/05 15:31:49:496
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/02/06 16:17:20:851
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :XRPUSDT*******position deleted*********2025/02/06 16:17:28:926
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :USUALUSDT*******position deleted*********2025/02/06 16:23:17:652
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ONDOUSDT*******position deleted*********2025/02/06 20:13:11:898
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ONDOUSDT*******position deleted*********2025/02/06 20:14:46:146
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :SUIUSDT*******position deleted*********2025/02/07 01:07:02:696
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :DEXEUSDT*******position deleted*********2025/02/07 02:54:19:062
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/08 17:32:30:080
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :UXLINKUSDT*******position deleted*********2025/02/08 19:55:59:758
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/09 09:13:33:922
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :DEXEUSDT*******position deleted*********2025/02/09 12:34:11:311
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :CAKEUSDT*******position deleted*********2025/02/09 12:35:51:315
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/02/09 17:17:02:200
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/09 18:04:45:601
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/09 21:32:20:212
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/09 23:45:52:211
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/02/09 23:45:53:836
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AVAUSDT*******position deleted*********2025/02/10 01:06:58:078
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :CAKEUSDT*******position deleted*********2025/02/10 01:46:10:142
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle MONITORING) :ONDOUSDT*******position deleted*********2025/02/10 01:54:02:562
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :LDOUSDT*******position deleted*********2025/02/10 01:54:03:519
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle) :DEXEUSDT*******position deleted*********2025/02/10 23:20:22:022
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/11 01:43:22:855
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/02/11 18:09:23:628
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/02/11 22:41:55:698
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :SPXUSDT*******position deleted*********2025/02/11 22:43:32:823
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/02/11 22:48:34:131
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/12 01:47:19:744
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :FARTCOINUSDT*******position deleted*********2025/02/12 01:48:48:956
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/12 12:23:29:796
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :CAKEUSDT*******position deleted*********2025/02/12 14:48:01:104
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/02/12 16:31:46:728
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :KASUSDT*******position deleted*********2025/02/12 17:52:45:640
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :DEXEUSDT*******position deleted*********2025/02/12 17:59:30:922
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/02/12 17:59:31:945
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/02/12 17:59:33:392
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PENGUUSDT*******position deleted*********2025/02/14 01:32:31:209
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :POPCATUSDT*******position deleted*********2025/02/14 16:36:15:089
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :LDOUSDT*******position deleted*********2025/02/14 18:33:29:902
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :TRUMPUSDT*******position deleted*********2025/02/14 18:33:37:663
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/02/17 06:05:58:637
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :VIRTUALUSDT*******position deleted*********2025/02/17 23:42:37:519
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/02/18 13:32:16:913
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :EIGENUSDT*******position deleted*********2025/02/18 13:36:48:258
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :EIGENUSDT*******position deleted*********2025/02/18 13:38:15:911
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/02/18 22:03:45:795
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :KASUSDT*******position deleted*********2025/02/18 22:20:59:215
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000LUNCUSDT*******position deleted*********2025/02/19 01:08:08:255
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :1000LUNCUSDT*******position deleted*********2025/02/19 01:09:39:995
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :OMUSDT*******position deleted*********2025/02/19 10:56:25:166
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :AMBUSDT*******position deleted*********2025/02/20 19:48:15:929
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AMBUSDT*******position deleted*********2025/02/20 19:49:44:767
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/02/21 07:44:11:007
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/02/21 09:42:00:243
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :BANUSDT*******position deleted*********2025/02/22 14:21:56:504
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VINEUSDT*******position deleted*********2025/02/22 19:18:00:651
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :BANUSDT*******position deleted*********2025/02/22 19:28:27:505
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle MONITORING) :MORPHOUSDT*******position deleted*********2025/02/22 19:33:23:861
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle MONITORING) :CHILLGUYUSDT*******position deleted*********2025/02/22 19:33:25:972
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle MONITORING) :AI16ZUSDT*******position deleted*********2025/02/22 19:33:27:392
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle MONITORING) :IPUSDT*******position deleted*********2025/02/22 19:33:28:479
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/02/23 19:20:27:076
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :RUNEUSDT*******position deleted*********2025/02/23 19:29:12:037
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BRETTUSDT*******position deleted*********2025/02/23 23:24:50:473
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/02/23 23:40:55:138
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :OMUSDT*******position deleted*********2025/02/24 08:29:16:894
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/02/24 08:29:18:325
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/02/24 10:25:25:075
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :EIGENUSDT*******position deleted*********2025/02/24 12:39:04:174
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/02/24 14:33:42:322
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :SPXUSDT*******position deleted*********2025/02/24 14:35:09:863
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :BRETTUSDT*******position deleted*********2025/02/24 21:34:19:122
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AI16ZUSDT*******position deleted*********2025/02/24 21:37:43:567
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/02/25 01:58:23:336
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :MOODENGUSDT*******position deleted*********2025/02/25 02:00:02:015
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :KASUSDT*******position deleted*********2025/02/25 02:35:57:331
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000LUNCUSDT*******position deleted*********2025/02/25 03:39:31:528
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/02/25 03:43:07:763
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/02/25 03:56:59:112
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BRETTUSDT*******position deleted*********2025/02/25 06:23:41:544
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :GRASSUSDT*******position deleted*********2025/02/25 12:50:54:923
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :TWTUSDT*******position deleted*********2025/02/25 13:03:12:401
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/02/25 13:10:09:599
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :DOGEUSDT*******position deleted*********2025/02/26 10:39:49:142
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle MONITORING) :AI16ZUSDT*******position deleted*********2025/02/27 01:07:19:375
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle MONITORING) :MORPHOUSDT*******position deleted*********2025/02/27 01:07:21:360
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle MONITORING) :CHILLGUYUSDT*******position deleted*********2025/02/27 01:07:22:999
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle MONITORING) :OPUSDT*******position deleted*********2025/02/27 01:07:24:969
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :LDOUSDT*******position deleted*********2025/02/27 01:07:26:931
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :MORPHOUSDT*******position deleted*********2025/02/27 01:07:50:249
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :CHILLGUYUSDT*******position deleted*********2025/02/27 01:07:51:875
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 01:07:53:840
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 01:13:10:947
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 01:18:26:048
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 01:23:40:852
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 01:28:55:554
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 01:34:16:130
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 01:39:28:931
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 01:44:46:456
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 01:50:02:203
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 01:55:16:404
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:00:33:413
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:05:48:179
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:11:02:560
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:16:19:277
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:21:35:854
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:26:53:013
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:32:06:275
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:37:24:040
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:42:36:056
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:47:54:319
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:53:10:298
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 02:58:27:237
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:03:43:968
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:09:01:220
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:14:14:369
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:19:29:834
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:24:45:891
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:30:01:519
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:35:16:926
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:40:35:442
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:45:48:640
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:51:05:672
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 03:56:18:993
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:01:35:952
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:06:52:756
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:12:09:850
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:17:22:912
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:22:40:782
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:27:55:435
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:33:11:157
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:38:28:913
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:43:45:306
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:48:59:439
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:54:16:876
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/27 04:59:33:677
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :ALCHUSDT*******position deleted*********2025/02/27 13:08:41:566
+ placeOrder.side (Handle) => None
+deted from bybit symbol(UpdatePositionSatellite) :OPUSDT*******position deleted*********2025/02/27 22:34:35:216
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ONDOUSDT*******position deleted*********2025/02/28 02:53:26:227
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ONDOUSDT*******position deleted*********2025/02/28 03:07:04:335
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ONDOUSDT*******position deleted*********2025/02/28 03:08:58:946
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :SHELLUSDT*******position deleted*********2025/02/28 04:54:34:983
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/02/28 05:08:18:022
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle MONITORING) :TIAUSDT*******position deleted*********2025/02/28 06:35:03:615
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :AXLUSDT*******position deleted*********2025/02/28 06:35:16:120
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :APTUSDT*******position deleted*********2025/02/28 06:35:17:455
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :MOODENGUSDT*******position deleted*********2025/02/28 06:35:18:897
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :1000LUNCUSDT*******position deleted*********2025/02/28 06:35:20:191
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :AI16ZUSDT*******position deleted*********2025/02/28 06:35:31:492
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :SHELLUSDT*******position deleted*********2025/02/28 07:02:00:782
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :KAITOUSDT*******position deleted*********2025/02/28 07:02:02:122
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:02:21:796
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :SHELLUSDT*******position deleted*********2025/02/28 07:07:18:099
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :KAITOUSDT*******position deleted*********2025/02/28 07:07:19:751
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:07:36:806
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :KAITOUSDT*******position deleted*********2025/02/28 07:12:33:206
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:12:51:755
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:18:06:151
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:23:21:338
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:28:38:180
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:33:53:716
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:39:08:127
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:44:24:769
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:49:38:273
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 07:54:53:762
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:00:12:081
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:05:30:364
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:10:40:071
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:15:58:540
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:21:14:050
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:26:29:509
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:31:46:451
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:37:03:633
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:42:16:171
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:47:32:043
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:53:34:237
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle MONITORING) :MOODENGUSDT*******position deleted*********2025/02/28 08:55:29:906
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:55:42:037
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :IPUSDT*******position deleted*********2025/02/28 08:55:52:015
+ placeOrder.side (Handle) => None
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 08:56:34:145
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/02/28 09:01:50:729
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :TIAUSDT*******position deleted*********2025/02/28 10:30:41:362
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :STXUSDT*******position deleted*********2025/02/28 10:30:42:337
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/02/28 10:30:44:008
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :APTUSDT*******position deleted*********2025/02/28 10:30:45:365
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/02/28 10:30:46:754
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000LUNCUSDT*******position deleted*********2025/02/28 10:30:48:104
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :STXUSDT*******position deleted*********2025/02/28 10:32:18:814
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :AI16ZUSDT*******position deleted*********2025/03/02 10:43:17:330
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :HBARUSDT*******position deleted*********2025/03/02 11:21:47:446
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :IPUSDT*******position deleted*********2025/03/02 23:36:02:386
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/03/03 06:13:28:226
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/03/03 07:01:20:794
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :IPUSDT*******position deleted*********2025/03/03 07:37:15:036
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/03/03 11:18:00:880
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :KASUSDT*******position deleted*********2025/03/03 11:20:57:657
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/03/03 11:23:38:421
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/03/03 12:32:41:962
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :LDOUSDT*******position deleted*********2025/03/03 12:34:45:386
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :CRVUSDT*******position deleted*********2025/03/03 12:45:00:883
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :GALAUSDT*******position deleted*********2025/03/03 13:04:42:964
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :RSRUSDT*******position deleted*********2025/03/03 13:04:44:187
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :RENDERUSDT*******position deleted*********2025/03/03 13:04:45:687
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ONDOUSDT*******position deleted*********2025/03/03 13:04:47:193
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VETUSDT*******position deleted*********2025/03/03 13:07:04:323
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ALGOUSDT*******position deleted*********2025/03/03 13:07:13:817
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :EOSUSDT*******position deleted*********2025/03/03 13:07:15:339
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LINKUSDT*******position deleted*********2025/03/03 13:08:54:915
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000PEPEUSDT*******position deleted*********2025/03/03 13:08:56:280
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :1000PEPEUSDT*******position deleted*********2025/03/03 13:10:55:746
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :XLMUSDT*******position deleted*********2025/03/03 13:10:56:817
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :JUPUSDT*******position deleted*********2025/03/03 13:11:20:170
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :XTZUSDT*******position deleted*********2025/03/03 13:13:19:565
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ENSUSDT*******position deleted*********2025/03/03 13:24:42:411
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :TRUMPUSDT*******position deleted*********2025/03/03 13:44:27:192
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :HBARUSDT*******position deleted*********2025/03/03 13:44:29:195
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AEROUSDT*******position deleted*********2025/03/03 13:46:43:860
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SANDUSDT*******position deleted*********2025/03/03 13:53:09:870
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :SANDUSDT*******position deleted*********2025/03/03 13:54:57:050
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/03/03 14:03:54:838
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SUIUSDT*******position deleted*********2025/03/03 14:03:55:913
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :TIAUSDT*******position deleted*********2025/03/03 14:22:47:244
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000BONKUSDT*******position deleted*********2025/03/03 14:37:29:811
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/03/03 14:43:43:114
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AXLUSDT*******position deleted*********2025/03/03 14:43:44:794
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOVEUSDT*******position deleted*********2025/03/03 14:43:46:510
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AXLUSDT*******position deleted*********2025/03/03 14:45:14:787
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ENAUSDT*******position deleted*********2025/03/03 15:32:10:645
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/03/03 18:32:56:872
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VETUSDT*******position deleted*********2025/03/03 18:44:37:433
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :GALAUSDT*******position deleted*********2025/03/03 18:44:44:356
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :GALAUSDT*******position deleted*********2025/03/03 18:46:52:638
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :XTZUSDT*******position deleted*********2025/03/03 18:48:57:653
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle MONITORING) :BERAUSDT*******position deleted*********2025/03/03 19:28:54:927
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :PENGUUSDT*******position deleted*********2025/03/03 19:28:55:902
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :AEROUSDT*******position deleted*********2025/03/03 19:28:56:886
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :RSRUSDT*******position deleted*********2025/03/03 19:28:57:875
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :TIAUSDT*******position deleted*********2025/03/03 19:28:58:868
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :AXLUSDT*******position deleted*********2025/03/03 19:29:00:536
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :SUIUSDT*******position deleted*********2025/03/03 19:29:01:903
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :LDOUSDT*******position deleted*********2025/03/03 19:29:02:904
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :JTOUSDT*******position deleted*********2025/03/03 19:29:04:227
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :1000BONKUSDT*******position deleted*********2025/03/03 19:29:05:561
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :SANDUSDT*******position deleted*********2025/03/03 19:29:07:231
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :LINKUSDT*******position deleted*********2025/03/03 19:29:24:965
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :XLMUSDT*******position deleted*********2025/03/03 19:29:27:556
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :TRUMPUSDT*******position deleted*********2025/03/03 19:29:29:438
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :HBARUSDT*******position deleted*********2025/03/03 19:29:31:584
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle MONITORING) :AI16ZUSDT*******position deleted*********2025/03/03 19:29:36:202
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :POPCATUSDT*******position deleted*********2025/03/03 19:29:37:520
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :GALAUSDT*******position deleted*********2025/03/03 19:29:39:101
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VETUSDT*******position deleted*********2025/03/03 19:29:52:563
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :RENDERUSDT*******position deleted*********2025/03/03 19:29:56:398
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :EOSUSDT*******position deleted*********2025/03/03 19:29:58:678
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WIFUSDT*******position deleted*********2025/03/03 19:30:00:376
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :BRETTUSDT*******position deleted*********2025/03/03 19:30:01:365
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :RUNEUSDT*******position deleted*********2025/03/03 19:30:02:745
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :HBARUSDT*******position deleted*********2025/03/04 01:39:32:779
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle MONITORING) :EOSUSDT*******position deleted*********2025/03/04 02:41:40:443
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :ALGOUSDT*******position deleted*********2025/03/04 02:41:41:749
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :BERAUSDT*******position deleted*********2025/03/04 02:42:26:062
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :LINKUSDT*******position deleted*********2025/03/04 02:42:30:748
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :XTZUSDT*******position deleted*********2025/03/04 02:42:33:342
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :TRUMPUSDT*******position deleted*********2025/03/04 02:42:34:306
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AEROUSDT*******position deleted*********2025/03/04 02:42:36:934
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :TIAUSDT*******position deleted*********2025/03/04 02:42:40:648
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/03/04 02:42:46:744
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WIFUSDT*******position deleted*********2025/03/04 02:42:50:448
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :RENDERUSDT*******position deleted*********2025/03/04 02:43:04:568
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :RUNEUSDT*******position deleted*********2025/03/04 02:43:06:866
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :BRETTUSDT*******position deleted*********2025/03/04 02:43:09:163
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :XRPUSDT*******position deleted*********2025/03/04 02:43:10:151
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :EGLDUSDT*******position deleted*********2025/03/04 02:43:11:097
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :GRASSUSDT*******position deleted*********2025/03/04 02:43:12:427
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :XRPUSDT*******position deleted*********2025/03/04 06:34:27:174
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :WIFUSDT*******position deleted*********2025/03/04 06:34:28:176
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :TIAUSDT*******position deleted*********2025/03/04 06:34:29:219
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :GRASSUSDT*******position deleted*********2025/03/04 06:34:30:189
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :AEROUSDT*******position deleted*********2025/03/04 15:38:48:106
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SUSDT*******position deleted*********2025/03/05 06:14:03:842
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/03/05 07:06:46:293
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ENAUSDT*******position deleted*********2025/03/05 07:08:40:799
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :KAITOUSDT*******position deleted*********2025/03/05 10:54:51:845
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :HBARUSDT*******position deleted*********2025/03/05 20:04:01:364
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/03/05 20:58:26:309
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/03/06 02:49:36:010
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ARBUSDT*******position deleted*********2025/03/08 14:27:14:891
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :JTOUSDT*******position deleted*********2025/03/08 15:08:28:391
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :GRASSUSDT*******position deleted*********2025/03/09 07:54:23:524
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOVEUSDT*******position deleted*********2025/03/09 17:36:54:227
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENSUSDT*******position deleted*********2025/03/09 19:04:46:610
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/03/09 20:00:22:347
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ARBUSDT*******position deleted*********2025/03/10 07:19:05:257
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :HBARUSDT*******position deleted*********2025/03/10 07:19:06:366
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BERAUSDT*******position deleted*********2025/03/10 07:19:07:322
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :JTOUSDT*******position deleted*********2025/03/10 07:19:08:295
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOVEUSDT*******position deleted*********2025/03/10 07:19:09:690
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :HBARUSDT*******position deleted*********2025/03/10 07:20:37:196
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ARBUSDT*******position deleted*********2025/03/10 07:20:39:591
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :IPUSDT*******position deleted*********2025/03/10 10:19:12:031
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :IPUSDT*******position deleted*********2025/03/10 12:54:01:851
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :IPUSDT*******position deleted*********2025/03/10 14:03:14:752
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :IPUSDT*******position deleted*********2025/03/10 16:49:41:781
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SOLUSDT*******position deleted*********2025/03/10 17:50:58:051
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/03/10 19:39:05:814
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/03/10 19:39:06:768
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/03/10 21:05:05:149
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AVAUSDT*******position deleted*********2025/03/11 07:46:15:978
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/03/11 07:46:17:159
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOVEUSDT*******position deleted*********2025/03/11 07:46:18:177
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AVAUSDT*******position deleted*********2025/03/11 07:47:47:269
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ENAUSDT*******position deleted*********2025/03/11 07:47:48:208
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :SUIUSDT*******position deleted*********2025/03/11 19:16:01:758
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :IPUSDT*******position deleted*********2025/03/12 10:28:59:651
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/03/12 21:23:47:068
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOVEUSDT*******position deleted*********2025/03/12 23:19:33:461
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/03/13 18:51:20:505
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :RAREUSDT*******position deleted*********2025/03/15 07:00:23:086
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/03/15 09:23:48:217
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ZROUSDT*******position deleted*********2025/03/16 04:17:25:547
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :CAKEUSDT*******position deleted*********2025/03/19 05:47:16:917
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/03/19 09:35:36:589
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :1000BONKUSDT*******position deleted*********2025/03/20 09:28:08:397
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/03/20 21:24:56:819
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ARUSDT*******position deleted*********2025/03/21 16:31:36:374
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/03/22 05:52:24:333
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :CAKEUSDT*******position deleted*********2025/03/22 07:21:17:351
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ZETAUSDT*******position deleted*********2025/03/22 07:50:57:853
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :ZETAUSDT*******position deleted*********2025/03/22 08:16:31:185
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :CAKEUSDT*******position deleted*********2025/03/25 03:55:12:397
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :SOLUSDT*******position deleted*********2025/03/25 07:00:36:408
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :SUIUSDT*******position deleted*********2025/03/26 07:00:08:214
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VIDTUSDT*******position deleted*********2025/03/26 07:00:09:139
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WUSDT*******position deleted*********2025/03/27 07:00:48:326
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ETHUSDT*******position deleted*********2025/03/27 07:00:49:596
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :1000CATUSDT*******position deleted*********2025/03/27 11:38:07:034
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SUIUSDT*******position deleted*********2025/03/27 11:38:07:977
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :1000CATUSDT*******position deleted*********2025/03/27 11:39:34:508
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :1000CATUSDT*******position deleted*********2025/03/27 18:47:29:540
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :1000CATUSDT*******position deleted*********2025/03/28 05:41:05:471
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ARKMUSDT*******position deleted*********2025/03/28 05:42:28:725
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :1000CATUSDT*******position deleted*********2025/03/28 07:00:13:123
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :SUIUSDT*******position deleted*********2025/03/28 07:00:14:052
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :MORPHOUSDT*******position deleted*********2025/03/28 09:06:13:205
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :MORPHOUSDT*******position deleted*********2025/03/28 11:16:39:486
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :MORPHOUSDT*******position deleted*********2025/03/28 11:18:06:380
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/03/29 07:36:15:944
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :KASUSDT*******position deleted*********2025/03/29 14:16:12:432
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BERAUSDT*******position deleted*********2025/03/29 14:50:56:505
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :CAKEUSDT*******position deleted*********2025/03/29 21:00:39:222
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/03/29 21:32:57:335
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ARUSDT*******position deleted*********2025/03/30 03:05:10:992
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/03/30 03:05:12:259
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BERAUSDT*******position deleted*********2025/03/30 04:32:58:356
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/03/31 11:13:06:284
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :DEXEUSDT*******position deleted*********2025/04/01 16:09:57:408
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :RSRUSDT*******position deleted*********2025/04/03 03:31:31:675
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :OPUSDT*******position deleted*********2025/04/03 14:49:46:081
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/04/03 14:49:47:182
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/03 19:07:42:604
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/04/03 20:52:13:942
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PENDLEUSDT*******position deleted*********2025/04/04 05:25:48:086
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WALUSDT*******position deleted*********2025/04/04 08:35:29:228
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :TONUSDT*******position deleted*********2025/04/04 09:43:25:298
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/04/04 14:55:57:449
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/04 15:05:15:816
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PENDLEUSDT*******position deleted*********2025/04/04 15:58:27:661
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WALUSDT*******position deleted*********2025/04/04 17:46:19:590
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :TONUSDT*******position deleted*********2025/04/04 18:03:12:402
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :EOSUSDT*******position deleted*********2025/04/05 04:01:52:828
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :OPUSDT*******position deleted*********2025/04/07 05:11:50:443
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/04/07 05:11:51:388
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :LDOUSDT*******position deleted*********2025/04/07 07:01:06:724
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/04/07 07:01:07:662
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :SUIUSDT*******position deleted*********2025/04/07 08:27:49:953
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/04/07 09:27:13:496
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :LDOUSDT*******position deleted*********2025/04/07 09:28:44:967
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/07 10:06:03:375
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :RSRUSDT*******position deleted*********2025/04/07 11:50:45:569
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WALUSDT*******position deleted*********2025/04/07 12:20:31:372
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :REDUSDT*******position deleted*********2025/04/07 12:25:16:537
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/04/07 14:27:35:394
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/04/07 15:53:18:187
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :OPUSDT*******position deleted*********2025/04/07 16:24:34:946
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/07 19:03:31:637
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/04/08 00:29:23:008
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :SPXUSDT*******position deleted*********2025/04/08 00:30:55:714
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :SUSDT*******position deleted*********2025/04/09 09:10:47:804
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :NULSUSDT*******position deleted*********2025/04/09 14:21:07:308
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :NULSUSDT*******position deleted*********2025/04/09 14:40:03:831
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :VIDTUSDT*******position deleted*********2025/04/09 19:56:43:590
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ARUSDT*******position deleted*********2025/04/10 14:06:15:045
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/04/10 14:31:42:532
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :STRKUSDT*******position deleted*********2025/04/10 14:31:43:483
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOVEUSDT*******position deleted*********2025/04/10 14:31:46:006
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :STRKUSDT*******position deleted*********2025/04/10 14:33:20:950
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :UNIUSDT*******position deleted*********2025/04/10 14:33:23:836
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ENAUSDT*******position deleted*********2025/04/10 15:51:54:813
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ZECUSDT*******position deleted*********2025/04/10 17:20:57:393
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :KASUSDT*******position deleted*********2025/04/10 18:40:20:286
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :KASUSDT*******position deleted*********2025/04/10 18:42:20:399
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ARUSDT*******position deleted*********2025/04/10 20:02:31:144
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOVEUSDT*******position deleted*********2025/04/10 20:22:52:278
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :MOVEUSDT*******position deleted*********2025/04/10 20:24:57:884
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ALGOUSDT*******position deleted*********2025/04/10 20:31:42:737
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/04/10 20:33:54:989
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :DOGEUSDT*******position deleted*********2025/04/10 21:02:30:621
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LINKUSDT*******position deleted*********2025/04/10 21:22:30:290
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :GALAUSDT*******position deleted*********2025/04/10 21:55:01:678
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/04/10 21:55:03:135
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000FLOKIUSDT*******position deleted*********2025/04/10 21:57:12:795
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :RUNEUSDT*******position deleted*********2025/04/10 21:59:19:114
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ADAUSDT*******position deleted*********2025/04/10 21:59:20:574
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :STRKUSDT*******position deleted*********2025/04/10 21:59:22:092
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :UNIUSDT*******position deleted*********2025/04/10 22:01:12:676
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :XRPUSDT*******position deleted*********2025/04/10 22:01:13:936
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ONDOUSDT*******position deleted*********2025/04/10 22:05:24:059
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VETUSDT*******position deleted*********2025/04/10 22:36:38:106
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WALUSDT*******position deleted*********2025/04/10 22:44:26:573
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :1000PEPEUSDT*******position deleted*********2025/04/10 22:44:36:774
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENSUSDT*******position deleted*********2025/04/10 22:48:28:291
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000BONKUSDT*******position deleted*********2025/04/10 22:54:07:208
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :1000BONKUSDT*******position deleted*********2025/04/10 22:55:56:028
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :TIAUSDT*******position deleted*********2025/04/10 23:11:02:450
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PENDLEUSDT*******position deleted*********2025/04/11 00:17:21:938
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :EOSUSDT*******position deleted*********2025/04/11 00:33:52:041
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/04/12 21:02:19:012
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :EOSUSDT*******position deleted*********2025/04/13 07:45:06:635
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :EOSUSDT*******position deleted*********2025/04/13 07:47:03:284
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/13 10:31:06:033
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/13 18:21:26:226
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/04/13 19:23:27:148
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WALUSDT*******position deleted*********2025/04/13 19:34:29:970
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :EOSUSDT*******position deleted*********2025/04/13 20:10:10:947
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :OMUSDT*******position deleted*********2025/04/13 20:55:53:515
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/14 02:13:23:098
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/04/14 02:13:24:304
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PENDLEUSDT*******position deleted*********2025/04/14 02:21:07:490
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :RSRUSDT*******position deleted*********2025/04/14 02:21:09:555
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :GALAUSDT*******position deleted*********2025/04/14 02:21:10:757
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WALUSDT*******position deleted*********2025/04/14 02:22:54:450
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :TIAUSDT*******position deleted*********2025/04/14 02:23:07:615
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :STRKUSDT*******position deleted*********2025/04/14 02:23:08:860
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000BONKUSDT*******position deleted*********2025/04/14 02:28:40:453
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/15 10:14:32:308
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/04/15 14:53:34:434
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/15 15:41:31:075
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SOLUSDT*******position deleted*********2025/04/15 16:40:25:784
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :OMUSDT*******position deleted*********2025/04/15 17:03:44:278
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/15 17:07:35:307
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/15 18:29:16:242
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000FLOKIUSDT*******position deleted*********2025/04/15 23:40:20:864
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PENDLEUSDT*******position deleted*********2025/04/16 02:33:43:588
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :PENDLEUSDT*******position deleted*********2025/04/16 02:35:26:351
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/04/16 03:29:58:059
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SANDUSDT*******position deleted*********2025/04/16 03:48:29:902
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :SANDUSDT*******position deleted*********2025/04/16 03:50:13:802
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :1000BONKUSDT*******position deleted*********2025/04/16 04:17:53:384
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ALGOUSDT*******position deleted*********2025/04/16 04:59:54:241
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/04/16 07:03:11:603
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :SPXUSDT*******position deleted*********2025/04/16 07:04:43:638
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WALUSDT*******position deleted*********2025/04/16 08:20:18:774
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :1000FLOKIUSDT*******position deleted*********2025/04/16 10:35:00:837
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/04/16 10:43:55:434
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WIFUSDT*******position deleted*********2025/04/16 13:13:32:336
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :RSRUSDT*******position deleted*********2025/04/16 14:04:51:909
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :RSRUSDT*******position deleted*********2025/04/16 14:06:27:486
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :TIAUSDT*******position deleted*********2025/04/16 16:23:26:526
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :RSRUSDT*******position deleted*********2025/04/16 17:13:22:649
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :RSRUSDT*******position deleted*********2025/04/16 17:14:59:577
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :STRKUSDT*******position deleted*********2025/04/16 17:24:03:670
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/04/16 19:31:30:881
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/16 20:13:08:135
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/04/16 20:31:38:135
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000FLOKIUSDT*******position deleted*********2025/04/16 21:49:41:964
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :GALAUSDT*******position deleted*********2025/04/16 21:51:27:270
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :LDOUSDT*******position deleted*********2025/04/16 21:51:28:985
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :STRKUSDT*******position deleted*********2025/04/16 21:51:29:840
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/04/17 03:14:40:052
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :SANDUSDT*******position deleted*********2025/04/17 06:24:02:516
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/17 07:02:29:704
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :INJUSDT*******position deleted*********2025/04/17 18:07:10:263
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/17 18:25:56:045
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PENDLEUSDT*******position deleted*********2025/04/17 18:31:02:717
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :GALAUSDT*******position deleted*********2025/04/17 19:09:43:209
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle MONITORING) :SUSDT*******position deleted*********2025/04/18 22:43:01:751
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle MONITORING) :CHILLGUYUSDT*******position deleted*********2025/04/18 22:43:02:751
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle MONITORING) :GOATUSDT*******position deleted*********2025/04/18 22:43:03:733
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :GOATUSDT*******position deleted*********2025/04/18 22:43:44:300
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :ZEREBROUSDT*******position deleted*********2025/04/18 22:43:45:235
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :ZEREBROUSDT*******position deleted*********2025/04/18 22:43:46:874
+ placeOrder.side (Handle) => None
+deted from bybit symbol(UpdatePositionSatellite) :WCTUSDT*******position deleted*********2025/04/22 07:00:22:523
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/04/22 07:00:23:481
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :SUSDT*******position deleted*********2025/04/23 10:49:34:030
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :ENJUSDT*******position deleted*********2025/04/23 12:07:56:309
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ENJUSDT*******position deleted*********2025/04/23 17:13:52:015
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AI16ZUSDT*******position deleted*********2025/04/25 04:58:33:858
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :POLUSDT*******position deleted*********2025/04/25 07:09:46:717
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WCTUSDT*******position deleted*********2025/04/25 11:05:27:857
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ZEREBROUSDT*******position deleted*********2025/04/25 11:05:31:911
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :WCTUSDT*******position deleted*********2025/04/25 11:05:34:508
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :ZEREBROUSDT*******position deleted*********2025/04/25 11:05:35:788
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/25 16:54:29:263
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ZEREBROUSDT*******position deleted*********2025/04/25 17:39:10:547
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :ZEREBROUSDT*******position deleted*********2025/04/25 17:39:16:285
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle MONITORING) :JUPUSDT*******position deleted*********2025/04/27 00:16:10:426
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle MONITORING) :ARKMUSDT*******position deleted*********2025/04/27 00:16:11:425
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :JUPUSDT*******position deleted*********2025/04/27 00:16:33:803
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :ARKMUSDT*******position deleted*********2025/04/27 00:16:34:716
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ALPACAUSDT*******position deleted*********2025/04/27 08:30:35:017
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle MONITORING) :ALPACAUSDT*******position deleted*********2025/04/27 13:30:34:447
+ placeOrder.side (Handle MONITORING) => Buy
+deted from bybit symbol (Handle) :1000BONKUSDT*******position deleted*********2025/04/28 19:33:41:214
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000FLOKIUSDT*******position deleted*********2025/04/28 19:37:02:672
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000PEPEUSDT*******position deleted*********2025/04/28 19:48:32:945
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :1000PEPEUSDT*******position deleted*********2025/04/28 19:50:09:093
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :CRVUSDT*******position deleted*********2025/04/28 20:01:34:099
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WIFUSDT*******position deleted*********2025/04/28 21:06:03:277
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :STXUSDT*******position deleted*********2025/04/28 21:17:26:281
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/28 21:42:58:254
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/29 00:50:18:153
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FARTCOINUSDT*******position deleted*********2025/04/29 05:48:56:356
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AAVEUSDT*******position deleted*********2025/04/30 16:52:23:686
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle MONITORING) :ETHUSDT*******position deleted*********2025/04/30 20:05:16:280
+ placeOrder.side (Handle MONITORING) => Sell
+deted from bybit symbol (Handle) :HAEDALUSDT*******position deleted*********2025/05/03 20:44:36:650
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PENGUUSDT*******position deleted*********2025/05/04 05:06:48:551
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :1000FLOKIUSDT*******position deleted*********2025/05/04 13:32:12:671
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/05/04 14:05:16:021
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :1000BONKUSDT*******position deleted*********2025/05/04 16:23:07:041
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :1000BONKUSDT*******position deleted*********2025/05/04 16:24:37:768
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :SUSDT*******position deleted*********2025/05/04 21:39:20:196
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BRETTUSDT*******position deleted*********2025/05/04 22:31:01:556
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :BRETTUSDT*******position deleted*********2025/05/04 22:32:35:750
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :PENDLEUSDT*******position deleted*********2025/05/04 22:51:20:918
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :PENDLEUSDT*******position deleted*********2025/05/04 22:52:56:044
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :GALAUSDT*******position deleted*********2025/05/05 01:49:30:970
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :1000FLOKIUSDT*******position deleted*********2025/05/05 02:18:33:076
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ALGOUSDT*******position deleted*********2025/05/05 02:33:53:463
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :CRVUSDT*******position deleted*********2025/05/05 02:48:47:324
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SANDUSDT*******position deleted*********2025/05/05 03:00:15:511
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WIFUSDT*******position deleted*********2025/05/05 04:32:13:240
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :SPXUSDT*******position deleted*********2025/05/05 07:01:11:967
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :STXUSDT*******position deleted*********2025/05/05 08:00:48:369
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :STXUSDT*******position deleted*********2025/05/05 08:02:21:364
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :CRVUSDT*******position deleted*********2025/05/05 14:51:38:119
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/05/05 20:48:28:226
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :AEROUSDT*******position deleted*********2025/05/06 00:11:45:483
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BRETTUSDT*******position deleted*********2025/05/06 00:41:30:234
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/05/06 03:20:56:232
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :SUSDT*******position deleted*********2025/05/06 03:22:50:019
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/05/06 04:46:17:795
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/05/06 04:46:29:720
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :WLDUSDT*******position deleted*********2025/05/06 04:46:30:666
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :VIRTUALUSDT*******position deleted*********2025/05/06 04:46:31:553
+ placeOrder.side (Handle) => None
+deted from bybit symbol(UpdatePositionSatellite) :PENGUUSDT*******position deleted*********2025/05/06 22:29:46:147
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :ETHUSDT*******position deleted*********2025/05/06 22:30:00:315
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :AERGOUSDT*******position deleted*********2025/05/06 22:30:02:228
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :IOTAUSDT*******position deleted*********2025/05/06 22:30:03:479
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :ETHUSDT*******position deleted*********2025/05/06 22:30:05:148
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :AERGOUSDT*******position deleted*********2025/05/06 22:30:06:113
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :PENGUUSDT*******position deleted*********2025/05/06 22:30:07:452
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :IOTAUSDT*******position deleted*********2025/05/06 22:30:08:688
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :LEVERUSDT*******position deleted*********2025/05/07 11:13:09:531
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :EPTUSDT*******position deleted*********2025/05/08 09:29:03:780
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :IOUSDT*******position deleted*********2025/05/08 09:29:04:979
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :IOUSDT*******position deleted*********2025/05/08 09:30:46:936
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :EPTUSDT*******position deleted*********2025/05/08 11:06:35:246
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :TIAUSDT*******position deleted*********2025/05/08 13:04:10:460
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :AERGOUSDT*******position deleted*********2025/05/09 02:05:24:999
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :PNUTUSDT*******position deleted*********2025/05/09 06:47:16:937
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :KOMAUSDT*******position deleted*********2025/05/09 07:05:21:260
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :KOMAUSDT*******position deleted*********2025/05/09 07:07:00:138
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/05/09 07:45:27:104
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :WCTUSDT*******position deleted*********2025/05/09 09:00:07:923
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :PNUTUSDT*******position deleted*********2025/05/09 09:20:29:652
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :KOMAUSDT*******position deleted*********2025/05/09 09:20:30:493
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/05/09 09:20:31:809
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :VIRTUALUSDT*******position deleted*********2025/05/09 09:21:56:677
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/05/09 09:27:08:784
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/05/09 09:35:27:471
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :PNUTUSDT*******position deleted*********2025/05/09 10:30:50:351
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :KOMAUSDT*******position deleted*********2025/05/09 10:30:51:196
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :GOATUSDT*******position deleted*********2025/05/09 10:30:52:031
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/05/09 10:30:52:898
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :PENGUUSDT*******position deleted*********2025/05/09 14:09:42:604
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/05/09 16:18:24:922
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :1000PEPEUSDT*******position deleted*********2025/05/09 16:20:14:836
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :CHILLGUYUSDT*******position deleted*********2025/05/09 16:20:16:052
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :KOMAUSDT*******position deleted*********2025/05/09 16:20:17:256
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :SIRENUSDT*******position deleted*********2025/05/09 18:20:16:460
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :PEOPLEUSDT*******position deleted*********2025/05/09 18:20:17:378
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :SIRENUSDT*******position deleted*********2025/05/09 18:22:03:383
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :KOMAUSDT*******position deleted*********2025/05/09 19:53:38:014
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :PNUTUSDT*******position deleted*********2025/05/09 19:53:39:511
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :GOATUSDT*******position deleted*********2025/05/09 19:53:40:439
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :LUNA2USDT*******position deleted*********2025/05/10 03:50:32:239
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :LUNA2USDT*******position deleted*********2025/05/10 04:13:33:891
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :VINEUSDT*******position deleted*********2025/05/10 04:26:07:451
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :GOATUSDT*******position deleted*********2025/05/10 04:40:50:349
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :1000CATUSDT*******position deleted*********2025/05/10 05:10:35:536
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :1000CATUSDT*******position deleted*********2025/05/10 05:41:07:346
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :1000PEPEUSDT*******position deleted*********2025/05/10 05:54:14:026
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :KAITOUSDT*******position deleted*********2025/05/10 07:00:39:045
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :LUNA2USDT*******position deleted*********2025/05/10 07:00:44:167
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :VINEUSDT*******position deleted*********2025/05/10 07:00:44:986
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :GOATUSDT*******position deleted*********2025/05/10 07:00:46:237
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :1000CATUSDT*******position deleted*********2025/05/10 07:00:47:502
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :XAIUSDT*******position deleted*********2025/05/10 07:00:49:474
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :GRIFFAINUSDT*******position deleted*********2025/05/10 07:00:50:731
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :PNUTUSDT*******position deleted*********2025/05/10 07:00:51:549
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :ARCUSDT*******position deleted*********2025/05/10 07:00:52:825
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AIXBTUSDT*******position deleted*********2025/05/10 07:00:53:642
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AI16ZUSDT*******position deleted*********2025/05/10 07:00:54:893
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :AVAAIUSDT*******position deleted*********2025/05/10 07:00:55:721
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :WIFUSDT*******position deleted*********2025/05/10 07:00:56:536
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/05/11 01:19:28:519
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :IOTAUSDT*******position deleted*********2025/05/11 02:09:47:375
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOODENGUSDT*******position deleted*********2025/05/11 12:46:32:315
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :ARKMUSDT*******position deleted*********2025/05/11 15:57:49:580
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SWARMSUSDT*******position deleted*********2025/05/12 04:41:53:573
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :XAIUSDT*******position deleted*********2025/05/12 08:39:41:577
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :1000PEPEUSDT*******position deleted*********2025/05/12 16:29:15:327
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ONDOUSDT*******position deleted*********2025/05/12 22:30:57:259
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MUBARAKUSDT*******position deleted*********2025/05/14 02:03:18:664
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/05/14 11:23:02:960
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/05/14 11:27:06:413
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :KAITOUSDT*******position deleted*********2025/05/14 11:28:42:496
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/05/14 13:36:37:736
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/05/14 15:00:31:017
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/05/14 15:16:08:450
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :SHELLUSDT*******position deleted*********2025/05/15 08:31:48:307
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BERAUSDT*******position deleted*********2025/05/15 08:43:26:495
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BABYUSDT*******position deleted*********2025/05/15 08:43:28:125
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :HAEDALUSDT*******position deleted*********2025/05/15 09:26:33:046
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :MOCAUSDT*******position deleted*********2025/05/15 09:37:13:943
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :MOCAUSDT*******position deleted*********2025/05/15 09:38:54:771
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/05/15 15:50:15:412
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/05/15 16:20:47:014
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :TRUMPUSDT*******position deleted*********2025/05/15 16:45:51:337
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :PEOPLEUSDT*******position deleted*********2025/05/15 17:33:52:069
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :NXPCUSDT*******position deleted*********2025/05/15 21:36:31:847
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :NXPCUSDT*******position deleted*********2025/05/16 06:48:09:730
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WLDUSDT*******position deleted*********2025/05/16 08:46:57:199
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :TRUMPUSDT*******position deleted*********2025/05/16 11:39:11:887
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/05/17 05:10:12:758
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :XCNUSDT*******position deleted*********2025/05/19 09:30:18:790
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol(UpdatePositionSatellite) :TRUMPUSDT*******position deleted*********2025/05/19 09:30:20:012
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :NXPCUSDT*******position deleted*********2025/05/19 15:53:46:563
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :NXPCUSDT*******position deleted*********2025/05/19 16:26:10:132
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AVAAIUSDT*******position deleted*********2025/05/19 16:27:53:150
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SKYAIUSDT*******position deleted*********2025/05/19 16:27:54:125
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :HAEDALUSDT*******position deleted*********2025/05/19 16:27:55:684
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :ALPHAUSDT*******position deleted*********2025/05/19 17:14:22:745
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :NXPCUSDT*******position deleted*********2025/05/20 00:01:58:428
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :SONICUSDT*******position deleted*********2025/05/20 00:48:30:374
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :SONICUSDT*******position deleted*********2025/05/20 00:50:01:238
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :NXPCUSDT*******position deleted*********2025/05/20 02:45:15:626
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :NEIROETHUSDT*******position deleted*********2025/05/20 02:45:16:513
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :AVAAIUSDT*******position deleted*********2025/05/20 02:45:17:387
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :NEIROETHUSDT*******position deleted*********2025/05/20 02:46:47:116
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :PYTHUSDT*******position deleted*********2025/05/20 06:13:14:445
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :NXPCUSDT*******position deleted*********2025/05/20 07:33:30:052
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :NXPCUSDT*******position deleted*********2025/05/21 06:51:43:698
+ placeOrder.side (Handle) => None
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/05/21 08:06:49:656
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :MANTAUSDT*******position deleted*********2025/05/21 08:38:56:221
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :FORTHUSDT*******position deleted*********2025/05/21 08:38:57:073
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PYTHUSDT*******position deleted*********2025/05/21 08:38:58:242
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :PROMPTUSDT*******position deleted*********2025/05/21 08:38:59:117
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :JELLYJELLYUSDT*******position deleted*********2025/05/21 08:39:00:038
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :OGUSDT*******position deleted*********2025/05/21 08:39:00:934
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :VELODROMEUSDT*******position deleted*********2025/05/21 08:40:32:152
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :KAITOUSDT*******position deleted*********2025/05/21 13:16:09:561
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :SXTUSDT*******position deleted*********2025/05/21 13:24:28:383
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :HAEDALUSDT*******position deleted*********2025/05/21 15:23:59:653
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :HAEDALUSDT*******position deleted*********2025/05/21 15:53:13:617
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :ADAUSDT*******position deleted*********2025/05/24 10:05:20:658
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :WCTUSDT*******position deleted*********2025/05/24 15:24:53:898
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :BUSDT*******position deleted*********2025/05/24 18:18:20:749
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :FLMUSDT*******position deleted*********2025/05/25 08:22:16:831
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :VOXELUSDT*******position deleted*********2025/05/25 08:28:50:840
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol(UpdatePositionSatellite) :WCTUSDT*******position deleted*********2025/05/25 08:28:51:781
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :BUSDT*******position deleted*********2025/05/25 08:41:50:011
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :VOXELUSDT*******position deleted*********2025/05/25 09:21:25:014
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :JELLYJELLYUSDT*******position deleted*********2025/05/25 09:24:45:896
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol (Handle) :BUSDT*******position deleted*********2025/05/25 09:44:10:452
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :CVCUSDT*******position deleted*********2025/05/25 15:34:07:086
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :CVCUSDT*******position deleted*********2025/05/25 15:35:48:426
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :FLMUSDT*******position deleted*********2025/05/25 20:27:30:898
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol(UpdatePositionSatellite) :NEIROETHUSDT*******position deleted*********2025/05/26 07:01:16:151
+ placeOrder.side(UpdatePositionSatellite)  => Buy
+deted from bybit symbol (Handle) :SOLUSDT*******position deleted*********2025/05/26 23:09:21:123
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :SUSHIUSDT*******position deleted*********2025/05/27 02:53:21:635
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :UNIUSDT*******position deleted*********2025/05/27 02:54:53:516
+ placeOrder.side(UpdatePositionSatellite)  => Sell
+deted from bybit symbol (Handle) :SOLUSDT*******position deleted*********2025/05/27 03:59:57:305
+ placeOrder.side (Handle) => Buy
+deted from bybit symbol (Handle) :SKYAIUSDT*******position deleted*********2025/05/27 08:19:18:411
+ placeOrder.side (Handle) => Sell
+deted from bybit symbol(UpdatePositionSatellite) :UNIUSDT*******position deleted*********2025/05/27 08:20:52:319
+ placeOrder.side(UpdatePositionSatellite)  => Sell

@@ -1,0 +1,12 @@
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\bin\Debug\net6.0\CleanArchitecture.WEB.UnitTests.deps.json
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\bin\Debug\net6.0\CleanArchitecture.WEB.UnitTests.dll
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\bin\Debug\net6.0\CleanArchitecture.WEB.UnitTests.pdb
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\obj\Debug\net6.0\CleanArchitecture.WEB.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\obj\Debug\net6.0\CleanArchitecture.WEB.UnitTests.AssemblyInfoInputs.cache
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\obj\Debug\net6.0\CleanArchitecture.WEB.UnitTests.AssemblyInfo.cs
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\obj\Debug\net6.0\CleanArchitecture.WEB.UnitTests.csproj.CoreCompileInputs.cache
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\obj\Debug\net6.0\CleanArchitecture.WEB.UnitTests.sourcelink.json
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\obj\Debug\net6.0\CleanArchitecture.WEB.UnitTests.dll
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\obj\Debug\net6.0\refint\CleanArchitecture.WEB.UnitTests.dll
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\obj\Debug\net6.0\CleanArchitecture.WEB.UnitTests.pdb
+C:\worck\CREA_PASSION_BINANCE_COPY_TRADING\BINANCE_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\obj\Debug\net6.0\ref\CleanArchitecture.WEB.UnitTests.dll

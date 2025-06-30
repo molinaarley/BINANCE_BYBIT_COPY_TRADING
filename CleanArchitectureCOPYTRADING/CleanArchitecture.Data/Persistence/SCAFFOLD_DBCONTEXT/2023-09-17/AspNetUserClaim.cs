@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace CleanArchitecture.Infrastructure.Persistence.SCAFFOLD_DBCONTEXT.2023-09-17
+{
+    public partial class AspNetUserClaim
+    {
+        public int Id { get; set; }
+        public string UserId { get; set; } = null!;
+        public string? ClaimType { get; set; }
+        public string? ClaimValue { get; set; }
+
+        public virtual AspNetUser User { get; set; } = null!;
+    }
+}

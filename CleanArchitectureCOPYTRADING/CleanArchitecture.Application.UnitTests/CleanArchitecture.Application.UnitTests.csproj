@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Features\Streamers\CreateStreamer\CreateStreamerCommandHandlerXUnitTests.cs" />
+    <Compile Remove="Features\Streamers\DeleteStreamer\DeleteStreamerCommandHandlerXUnitTests.cs" />
+    <Compile Remove="Features\Streamers\UpdateStreamer\UpdateStreamerCommandHandlerXUnitTests.cs" />
+    <Compile Remove="Services\BinanceByBitOrderServiceXUnitTests.cs" />
+    <Compile Remove="Services\BinanceByBitUsersServiceXUnitTests.cs" />
+    <Compile Remove="Services\BinanceCacheByBitSymbolServiceXUnitTests.cs" />
+    <Compile Remove="Services\BinanceMonitoringCoinWalletBalanceObjectiveProcessServiceXUnitTests.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoFixture" Version="4.17.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.0.0" />
+    <PackageReference Include="Moq" Version="4.16.1" />
+    <PackageReference Include="Shouldly" Version="4.0.3" />
+    <PackageReference Include="xunit" Version="2.4.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArchitecture.Application\CleanArchitecture.Application.csproj" />
+    <ProjectReference Include="..\CleanArchitecture.Data\CleanArchitecture.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\BinanceTraderIA\Commands\" />
+    <Folder Include="Features\BinanceTraderIA\Queries\" />
+    <Folder Include="Features\Binance\Commands\" />
+    <Folder Include="Features\Streamers\CreateStreamer\" />
+    <Folder Include="Features\Streamers\DeleteStreamer\" />
+    <Folder Include="Features\Streamers\UpdateStreamer\" />
+    <Folder Include="Features\Video\Commands\" />
+    <Folder Include="Mocks\Binance\Repositories\" />
+    <Folder Include="Mocks\Binance\Services\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>

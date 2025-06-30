@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7DB81D-9587-4163-8B8F-FFF7DE6C6E45}|CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj|c:\\worck\\crea_passion_binance_copy_trading_github\\binance_bybit_copy_trading\\cleanarchitecturecopytrading\\cleanarchitecture.web\\cleanarchitecture.web\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A7DB81D-9587-4163-8B8F-FFF7DE6C6E45}|CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj|solutionrelative:cleanarchitecture.web\\cleanarchitecture.web\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7DB81D-9587-4163-8B8F-FFF7DE6C6E45}|CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.web\\cleanarchitecture.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A7DB81D-9587-4163-8B8F-FFF7DE6C6E45}|CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj|solutionrelative:cleanarchitecture.web\\cleanarchitecture.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7DB81D-9587-4163-8B8F-FFF7DE6C6E45}|CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.web\\cleanarchitecture.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A7DB81D-9587-4163-8B8F-FFF7DE6C6E45}|CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj|solutionrelative:cleanarchitecture.web\\cleanarchitecture.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B749C35A-0456-44D9-B235-0309A23D47C1}|CleanArchitecture.Application.UnitTests\\CleanArchitecture.Application.UnitTests.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.application.unittests\\cleanarchitecture.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B749C35A-0456-44D9-B235-0309A23D47C1}|CleanArchitecture.Application.UnitTests\\CleanArchitecture.Application.UnitTests.csproj|solutionrelative:cleanarchitecture.application.unittests\\cleanarchitecture.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5E0569-D493-478E-9267-78F53990066E}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.identity\\cleanarchitecture.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D5E0569-D493-478E-9267-78F53990066E}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\cleanarchitecture.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7DB81D-9587-4163-8B8F-FFF7DE6C6E45}|CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.web\\cleanarchitecture.web\\cleanarchitecture.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1A7DB81D-9587-4163-8B8F-FFF7DE6C6E45}|CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj|solutionrelative:cleanarchitecture.web\\cleanarchitecture.web\\cleanarchitecture.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7DB81D-9587-4163-8B8F-FFF7DE6C6E45}|CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.web\\cleanarchitecture.web\\controllers\\binance\\binancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7DB81D-9587-4163-8B8F-FFF7DE6C6E45}|CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj|solutionrelative:cleanarchitecture.web\\cleanarchitecture.web\\controllers\\binance\\binancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.domain\\mapattribute\\mapattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\mapattribute\\mapattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.data\\services\\binancetraderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.data\\services\\binancetraderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.domain\\common\\basedomainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\common\\basedomainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.domain\\binance\\binancetraderurlforupdatepositionbinancequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\binance\\binancetraderurlforupdatepositionbinancequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.domain\\binance\\binancetradertypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\binance\\binancetradertypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.domain\\binance\\binancemonitoringcoinwalletbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\binance\\binancemonitoringcoinwalletbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.domain\\binance\\binancemonitoringprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\binance\\binancemonitoringprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.domain\\binance\\binancetrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\binance\\binancetrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.domain\\binance\\binanceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\binance\\binanceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926D41B1-E6E3-4325-B561-09AF89B04BFC}|ConsoleAppMLNET\\ConsoleAppMLNET.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\consoleappmlnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926D41B1-E6E3-4325-B561-09AF89B04BFC}|ConsoleAppMLNET\\ConsoleAppMLNET.csproj|solutionrelative:consoleappmlnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.data\\services\\binanceorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.data\\services\\binanceorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.application\\features\\binance\\queries\\gettraderurlforupdatepositionbinanceinfo\\gettraderurlforupdatepositionbinanceinfohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.application\\features\\binance\\queries\\gettraderurlforupdatepositionbinance\\gettraderurlforupdatepositionbinancehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.application\\features\\binance\\queries\\gettraderurlforupdatepositionbinance\\gettraderurlforupdatepositionbinancequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\cleanarchitecture.application\\features\\binance\\queries\\gettraderurl\\gettraderurlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cleanarchitecture.application\\features\\binance\\queries\\gettraderurl\\gettraderurlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 613,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Docker.json",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.Docker.json",
+              "RelativeDocumentMoniker": "CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.Docker.json",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.Docker.json",
+              "RelativeToolTip": "CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.Docker.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T19:52:22.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.Development.json",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.Development.json",
+              "RelativeToolTip": "CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T19:51:37.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.json",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture.WEB\\CleanArchitecture.WEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T19:50:09.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CleanArchitecture.Application.UnitTests",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application.UnitTests\\CleanArchitecture.Application.UnitTests.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application.UnitTests\\CleanArchitecture.Application.UnitTests.csproj",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application.UnitTests\\CleanArchitecture.Application.UnitTests.csproj",
+              "RelativeToolTip": "CleanArchitecture.Application.UnitTests\\CleanArchitecture.Application.UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T19:49:25.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CleanArchitecture.Identity",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
+              "RelativeToolTip": "CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T19:49:05.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Managed.Core.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAL4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-30T14:22:04.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CleanArchitecture.WEB",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj",
+              "RelativeToolTip": "CleanArchitecture.WEB\\CleanArchitecture.WEB\\CleanArchitecture.WEB.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T22:58:10.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetTraderUrlForUpdatePositionBinanceInfoHandler.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinanceInfo\\GetTraderUrlForUpdatePositionBinanceInfoHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinanceInfo\\GetTraderUrlForUpdatePositionBinanceInfoHandler.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinanceInfo\\GetTraderUrlForUpdatePositionBinanceInfoHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinanceInfo\\GetTraderUrlForUpdatePositionBinanceInfoHandler.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:19:01.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetTraderUrlForUpdatePositionBinanceHandler.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinance\\GetTraderUrlForUpdatePositionBinanceHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinance\\GetTraderUrlForUpdatePositionBinanceHandler.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinance\\GetTraderUrlForUpdatePositionBinanceHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinance\\GetTraderUrlForUpdatePositionBinanceHandler.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:56:29.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetTraderUrlForUpdatePositionBinanceQuery.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinance\\GetTraderUrlForUpdatePositionBinanceQuery.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinance\\GetTraderUrlForUpdatePositionBinanceQuery.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinance\\GetTraderUrlForUpdatePositionBinanceQuery.cs",
+              "RelativeToolTip": "..\\..\\..\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrlForUpdatePositionBinance\\GetTraderUrlForUpdatePositionBinanceQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:56:22.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapAttribute.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\MapAttribute\\MapAttribute.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\MapAttribute\\MapAttribute.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\MapAttribute\\MapAttribute.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\MapAttribute\\MapAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T19:36:24.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetTraderUrlHandler.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrl\\GetTraderUrlHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrl\\GetTraderUrlHandler.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrl\\GetTraderUrlHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\Binance\\Queries\\GetTraderUrl\\GetTraderUrlHandler.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAewGEAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:53:08.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BinanceTraderService.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Data\\Services\\BinanceTraderService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Data\\Services\\BinanceTraderService.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Data\\Services\\BinanceTraderService.cs",
+              "RelativeToolTip": "CleanArchitecture.Data\\Services\\BinanceTraderService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:18:05.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseDomainModel.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Common\\BaseDomainModel.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Common\\BaseDomainModel.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Common\\BaseDomainModel.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Common\\BaseDomainModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:09:20.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Common\\ValueObject.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Common\\ValueObject.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Common\\ValueObject.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Common\\ValueObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:09:18.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BinanceTraderUrlForUpdatePositionBinanceQuery.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceTraderUrlForUpdatePositionBinanceQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Binance\\BinanceTraderUrlForUpdatePositionBinanceQuery.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceTraderUrlForUpdatePositionBinanceQuery.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Binance\\BinanceTraderUrlForUpdatePositionBinanceQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:09:03.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BinanceTraderTypeData.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceTraderTypeData.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Binance\\BinanceTraderTypeData.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceTraderTypeData.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Binance\\BinanceTraderTypeData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:08:59.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BinanceMonitoringCoinWalletBalance.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceMonitoringCoinWalletBalance.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Binance\\BinanceMonitoringCoinWalletBalance.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceMonitoringCoinWalletBalance.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Binance\\BinanceMonitoringCoinWalletBalance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:08:42.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BinanceMonitoringProcess.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceMonitoringProcess.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Binance\\BinanceMonitoringProcess.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceMonitoringProcess.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Binance\\BinanceMonitoringProcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:08:41.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BinanceTrader.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceTrader.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Binance\\BinanceTrader.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceTrader.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Binance\\BinanceTrader.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:05:44.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BinanceOrder.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceOrder.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Binance\\BinanceOrder.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\Binance\\BinanceOrder.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Binance\\BinanceOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:05:35.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMLNET\\Program.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\Program.cs",
+              "RelativeToolTip": "ConsoleAppMLNET\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:23:22.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BinanceController.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.WEB\\CleanArchitecture.WEB\\Controllers\\Binance\\BinanceController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WEB\\CleanArchitecture.WEB\\Controllers\\Binance\\BinanceController.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.WEB\\CleanArchitecture.WEB\\Controllers\\Binance\\BinanceController.cs",
+              "RelativeToolTip": "CleanArchitecture.WEB\\CleanArchitecture.WEB\\Controllers\\Binance\\BinanceController.cs",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAwwEABAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:23:08.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BinanceOrderService.cs",
+              "DocumentMoniker": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Data\\Services\\BinanceOrderService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Data\\Services\\BinanceOrderService.cs",
+              "ToolTip": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Data\\Services\\BinanceOrderService.cs",
+              "RelativeToolTip": "CleanArchitecture.Data\\Services\\BinanceOrderService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:37:50.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

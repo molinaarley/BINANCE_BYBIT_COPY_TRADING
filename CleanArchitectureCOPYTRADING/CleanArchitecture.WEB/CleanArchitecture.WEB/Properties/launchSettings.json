@@ -1,0 +1,42 @@
+{
+    "profiles": {
+        "CleanArchitecture.WEB": {
+            "commandName": "Project",
+            "launchBrowser": true,
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.SpaProxy"
+            },
+            "applicationUrl": "https://localhost:7024;http://localhost:5157"
+        },
+        "IIS Express": {
+            "commandName": "IISExpress",
+            "launchBrowser": true,
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.SpaProxy"
+            }
+        },
+        "Container (Dockerfile)": {
+            "commandName": "Docker",
+            "launchBrowser": true,
+            "launchUrl": "http://localhost:32773/swagger",
+            "environmentVariables": {
+                "ASPNETCORE_URLS": "http://+:80", // 🔧 Solo HTTP
+                "DOTNET_RUNNING_IN_CONTAINER": "true",
+                "ASPNETCORE_ENVIRONMENT": "Docker"
+            },
+            "publishAllPorts": true,
+            "useSSL": false,
+            "httpPort": 32773
+        }
+    },
+    "iisSettings": {
+        "windowsAuthentication": false,
+        "anonymousAuthentication": true,
+        "iisExpress": {
+            "applicationUrl": "http://localhost:1772",
+            "sslPort": 44328
+        }
+    }
+}
