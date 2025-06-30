@@ -2,6 +2,35 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "AutoMapper/11.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0": {
+        "type": "package",
+        "dependencies": {
+          "AutoMapper": "11.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "DotNetZip/1.16.0": {
         "type": "package",
         "dependencies": {
@@ -16,6 +45,36 @@
         "runtime": {
           "lib/netstandard2.0/DotNetZip.dll": {
             "related": ".pdb;.xml"
+          }
+        }
+      },
+      "FluentValidation/10.3.6": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/10.3.6": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "10.3.6",
+          "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -55,6 +114,48 @@
             "assetType": "native",
             "rid": "win-x64"
           }
+        }
+      },
+      "MediatR/10.0.1": {
+        "type": "package",
+        "dependencies": {
+          "MediatR.Contracts": "1.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MediatR.Contracts/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/10.0.1": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "10.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
       "Microsoft.AspNetCore.Authentication/2.2.0": {
@@ -357,7 +458,7 @@
           }
         }
       },
-      "Microsoft.CSharp/4.5.0": {
+      "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
           "ref/netcoreapp2.0/_._": {}
@@ -748,6 +849,26 @@
         },
         "build": {
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
+        }
+      },
+      "Microsoft.Extensions.ML/3.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.0",
+          "Microsoft.Extensions.Logging": "2.1.0",
+          "Microsoft.Extensions.ObjectPool": "2.1.0",
+          "Microsoft.Extensions.Options": "2.1.0",
+          "Microsoft.ML": "3.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.ML.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.ML.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.ObjectPool/2.2.0": {
@@ -1874,6 +1995,33 @@
           }
         }
       },
+      "CleanArchitecture.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper": "11.0.0",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
+          "CleanArchitecture.Domain": "1.0.0",
+          "DotNetZip": "1.16.0",
+          "FluentValidation": "10.3.6",
+          "FluentValidation.DependencyInjectionExtensions": "10.3.6",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.ML": "3.0.1",
+          "Microsoft.ML": "3.0.1",
+          "Microsoft.ML.LightGbm": "3.0.1",
+          "Newtonsoft.Json": "13.0.1",
+          "OpenAI": "2.1.0",
+          "Telegram.Bot": "19.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArchitecture.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArchitecture.Application.dll": {}
+        }
+      },
       "CleanArchitecture.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1891,6 +2039,35 @@
     }
   },
   "libraries": {
+    "AutoMapper/11.0.0": {
+      "sha512": "+596AnKykYCk9RxXCEF4GYuapSebQtFVvIA1oVG1rrRkCLAC7AkWehJ0brCfYUbdDW3v1H/p0W3hob7JoXGjMw==",
+      "type": "package",
+      "path": "automapper/11.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.11.0.0.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/AutoMapper.dll",
+        "lib/netstandard2.1/AutoMapper.xml"
+      ]
+    },
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0": {
+      "sha512": "0asw5WxdCFh2OTi9Gv+oKyH9SzxwYQSnO8TV5Dd0GggovILzJW4UimP26JAcxc3yB5NnC5urooZ1BBs8ElpiBw==",
+      "type": "package",
+      "path": "automapper.extensions.microsoft.dependencyinjection/11.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+        "automapper.extensions.microsoft.dependencyinjection.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
     "DotNetZip/1.16.0": {
       "sha512": "CS9sjjXF23FLIbwlLT5k/jXBYxVnLMn01lyAvN/hxFM+UDvSicjTPB9ZMA+Wp/QlvBPbD2pzkAXUp1O50gP/Lw==",
       "type": "package",
@@ -1906,6 +2083,44 @@
         "lib/netstandard2.0/DotNetZip.dll",
         "lib/netstandard2.0/DotNetZip.pdb",
         "lib/netstandard2.0/DotNetZip.xml"
+      ]
+    },
+    "FluentValidation/10.3.6": {
+      "sha512": "iMd370ZDx6ydm8t7bIFdRbSKX0e42lpvCtifUSbTSXOk5iKjmgl7HU0PXBhIWQAyIRi3gCwfMI9luj8H6K+byw==",
+      "type": "package",
+      "path": "fluentvalidation/10.3.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.10.3.6.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "FluentValidation.DependencyInjectionExtensions/10.3.6": {
+      "sha512": "yMwmbr+sHP/VLRQPTBVcgbJmtP5PGmxzNsqVX7FccDRwDB2edP8XsXWLNTZ4UwrslU1qQUD07BNQLDh7WXzpNw==",
+      "type": "package",
+      "path": "fluentvalidation.dependencyinjectionextensions/10.3.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.nuspec",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.xml"
       ]
     },
     "Humanizer.Core/2.8.26": {
@@ -1939,6 +2154,49 @@
         "runtimes/osx-x64/native/lib_lightgbm.dylib",
         "runtimes/win-x64/native/lib_lightgbm.dll",
         "runtimes/win-x64/native/lightgbm.exe"
+      ]
+    },
+    "MediatR/10.0.1": {
+      "sha512": "vnjbk4giDJzJelh34Ygt0eorApCKrRFB7j0pauFPY1oxfO3cEZ7FugBrIOjCM76SDGTOmPFfbfmVnz1t3iFrGA==",
+      "type": "package",
+      "path": "mediatr/10.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.dll",
+        "lib/netstandard2.1/MediatR.xml",
+        "mediatr.10.0.1.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Contracts/1.0.1": {
+      "sha512": "NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
+      "type": "package",
+      "path": "mediatr.contracts/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.Contracts.dll",
+        "lib/net461/MediatR.Contracts.xml",
+        "lib/netstandard2.0/MediatR.Contracts.dll",
+        "lib/netstandard2.0/MediatR.Contracts.xml",
+        "mediatr.contracts.1.0.1.nupkg.sha512",
+        "mediatr.contracts.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/10.0.1": {
+      "sha512": "mYdfMvpkahCAj4tRfBoeMlUBZa2WthaONdQ4y5TtIyxcZYb5e7AE7c1eITTZVWcQhguxvD8AdExdaiAW6RhrVA==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/10.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Authentication/2.2.0": {
@@ -2176,10 +2434,10 @@
         "microsoft.aspnetcore.webutilities.nuspec"
       ]
     },
-    "Microsoft.CSharp/4.5.0": {
-      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+    "Microsoft.CSharp/4.7.0": {
+      "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
       "type": "package",
-      "path": "microsoft.csharp/4.5.0",
+      "path": "microsoft.csharp/4.7.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2192,6 +2450,7 @@
         "lib/netcoreapp2.0/_._",
         "lib/netstandard1.3/Microsoft.CSharp.dll",
         "lib/netstandard2.0/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.xml",
         "lib/portable-net45+win8+wp8+wpa81/_._",
         "lib/uap10.0.16299/_._",
         "lib/win8/_._",
@@ -2201,7 +2460,7 @@
         "lib/xamarinmac20/_._",
         "lib/xamarintvos10/_._",
         "lib/xamarinwatchos10/_._",
-        "microsoft.csharp.4.5.0.nupkg.sha512",
+        "microsoft.csharp.4.7.0.nupkg.sha512",
         "microsoft.csharp.nuspec",
         "ref/MonoAndroid10/_._",
         "ref/MonoTouch10/_._",
@@ -2743,6 +3002,22 @@
         "microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
         "microsoft.extensions.logging.abstractions.nuspec",
         "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.ML/3.0.1": {
+      "sha512": "ZV+5penoHVhFYA6E+xJh6zYQF+XHhK9fxYQ70Byr51hks/wyev5Z6XZqG+jQq4Q/UK0YSaE8cLkSeHM3OTqKnA==",
+      "type": "package",
+      "path": "microsoft.extensions.ml/3.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netstandard2.0/Microsoft.Extensions.ML.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.ML.xml",
+        "microsoft.extensions.ml.3.0.1.nupkg.sha512",
+        "microsoft.extensions.ml.nuspec",
+        "mlnetlogo.png"
       ]
     },
     "Microsoft.Extensions.ObjectPool/2.2.0": {
@@ -4673,6 +4948,11 @@
         "telegram.bot.nuspec"
       ]
     },
+    "CleanArchitecture.Application/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+      "msbuildProject": "../CleanArchitecture.Application/CleanArchitecture.Application.csproj"
+    },
     "CleanArchitecture.Domain/1.0.0": {
       "type": "project",
       "path": "../CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
@@ -4681,7 +4961,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+      "CleanArchitecture.Application >= 1.0.0",
       "CleanArchitecture.Domain >= 1.0.0",
       "DotNetZip >= 1.16.0",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
@@ -4705,11 +4985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
+      "projectUniqueName": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
       "projectName": "CleanArchitecture.Infrastructure",
-      "projectPath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
+      "projectPath": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Data\\obj\\",
+      "outputPath": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4731,11 +5011,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-              "projectPath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+            "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+              "projectPath": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
             },
-            "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-              "projectPath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+            "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+              "projectPath": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
             }
           }
         }
@@ -4831,15 +5111,6 @@
     }
   },
   "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Les informations relatives au projet sont introuvables pour 'C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj'. Si vous utilisez Visual Studio, cela peut être dû au fait que le projet est déchargé ou qu'il ne fait pas partie de la solution actuelle. Dans ce cas, exécutez une restauration à partir de la ligne de commande. Sinon, il est possible que le fichier projet soit non valide ou que des cibles nécessaires à la restauration soient manquantes.",
-      "libraryId": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
     {
       "code": "NU1903",
       "level": "Warning",

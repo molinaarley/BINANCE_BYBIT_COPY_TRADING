@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iC49gG3mRrhCUijOxL4Mi/Fp1/b9ojUsJ6jx66hBX3ZDQOFkwlP65KYuwHF2JRKZasrvJNuVigGaTWsU2WaLWw==",
+  "dgSpecHash": "r0SE6RFkFuZU7wJlSNVnH8Ur3X1AhUoG53inm0/lYr/bnveeYptxkz5YqtrBTJF4ylIKd4UXOV2nURUYq/Wo8A==",
   "success": true,
-  "projectFilePath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\ConsoleAppMLNET.csproj",
+  "projectFilePath": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\ConsoleAppMLNET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\lightgbm\\3.3.5\\lightgbm.3.3.5.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.ml\\3.0.1\\microsoft.ml.3.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iza7Gxv5SK2WM/hMUxDv5uyDadDJK9RrDsRHUH+9hmiFyNOh4ZXVzOiG4Q6Gt+HVmWZO2FRSP0w/0WYl24c1ZA==",
+  "dgSpecHash": "NvgJcWuPQ3TK0MfwEyt/3KvLdfZzP/jGdHP2V5Wk3yDAEEw4NuzBqh9tt/l8JIfVZJLD1yetsGTDFBc7Ji+RcQ==",
   "success": true,
-  "projectFilePath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "projectFilePath": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.1\\microsoft.aspnetcore.cryptography.internal.6.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.1\\microsoft.aspnetcore.cryptography.keyderivation.6.0.1.nupkg.sha512",

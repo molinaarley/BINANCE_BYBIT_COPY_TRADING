@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArchitecture.WEB.UnitTests
-build_property.ProjectDir = C:\worck\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\BINANCE_BYBIT_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\
+build_property.ProjectDir = C:\worck\GITHUB\BINANCE_BYBIT_COPY_TRADING\CleanArchitectureCOPYTRADING\CleanArchitecture.WEB.UnitTests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

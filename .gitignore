@@ -229,3 +229,14 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+*.mlmodel
+*.zip
+*.bak
+*.json
+*.csv
+*.xlsx
+*.xls
+*.dat
+*.log
+.DS_Store
+Thumbs.db

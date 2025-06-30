@@ -1,16 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "wfRkkptQP0k6c/ai4EUH+BKIhwLsMGLEZmPMU4yT65aFFq7K5Gsj6LmYdNw87BAMCK8BDxlywliSKFG+dwN2Ww==",
-  "success": false,
-  "projectFilePath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application.UnitTests\\CleanArchitecture.Application.UnitTests.csproj",
+  "dgSpecHash": "ta9p/9xVG/Gp38iVw/pCJzWNHkCJuZqp+eY4rFyIy/CzfpLKmx/u4ZEJX61EzKabckk6C5TYZUXDgqNQ715mDw==",
+  "success": true,
+  "projectFilePath": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application.UnitTests\\CleanArchitecture.Application.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\autofixture\\4.17.0\\autofixture.4.17.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\diffengine\\6.4.9\\diffengine.6.4.9.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\dotnetzip\\1.16.0\\dotnetzip.1.16.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\emptyfiles\\2.3.3\\emptyfiles.2.3.3.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\fare\\2.1.1\\fare.2.1.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\lightgbm\\3.3.5\\lightgbm.3.3.5.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
@@ -50,6 +57,7 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.1\\microsoft.extensions.identity.stores.6.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.ml\\3.0.1\\microsoft.extensions.ml.3.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
@@ -233,15 +241,5 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Les informations relatives au projet sont introuvables pour 'C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj'. Si vous utilisez Visual Studio, cela peut être dû au fait que le projet est déchargé ou qu'il ne fait pas partie de la solution actuelle. Dans ce cas, exécutez une restauration à partir de la ligne de commande. Sinon, il est possible que le fichier projet soit non valide ou que des cibles nécessaires à la restauration soient manquantes.",
-      "libraryId": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\ConsoleAppMLNET.csproj": {}
+    "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\ConsoleAppMLNET.csproj": {}
   },
   "projects": {
-    "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\ConsoleAppMLNET.csproj": {
+    "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\ConsoleAppMLNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\ConsoleAppMLNET.csproj",
+        "projectUniqueName": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\ConsoleAppMLNET.csproj",
         "projectName": "ConsoleAppMLNET",
-        "projectPath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\ConsoleAppMLNET.csproj",
+        "projectPath": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\ConsoleAppMLNET.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING_GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\obj\\",
+        "outputPath": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\ConsoleAppMLNET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

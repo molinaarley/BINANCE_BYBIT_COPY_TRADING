@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LhPlXp3IL+IN/6QyXQ8nZf0BkekXorinw9GS2KRK38ZQMBepp/wc8qEPqxeLD5FztGD6sN/8/m2Js2P/AOQ8qQ==",
+  "dgSpecHash": "KyzyKobjmuwcDBvhdCMKdBfE8nzJ+ByuxtkbaBKJ7CuKUxDV1/Y4IaGIiM6Yqjyys9XuND7d51hET6qY3HwpUw==",
   "success": true,
-  "projectFilePath": "C:\\worck\\CREA_PASSION_BINANCE_COPY_TRADING\\BINANCE_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "projectFilePath": "C:\\worck\\GITHUB\\BINANCE_BYBIT_COPY_TRADING\\CleanArchitectureCOPYTRADING\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
